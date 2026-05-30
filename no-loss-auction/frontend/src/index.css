@@ -51,8 +51,8 @@
 }
 
 #root {
-  width: 100vw; /* 👈 Spans the absolute full width of the viewport */
-  margin: 0; /* 👈 Drops any auto-centering margins */
+  width: 100vw;
+  margin: 0;
   padding: 0;
   text-align: center;
   min-height: 100svh;

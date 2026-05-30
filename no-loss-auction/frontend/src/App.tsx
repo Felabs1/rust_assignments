@@ -311,7 +311,7 @@ export default function App() {
                 }}
               >
                 {auctionData ? auctionData.highest_bid.toString() : "---"}{" "}
-                <span style={{ fontSize: "20px", color: "#38bdf8" }}>TKN</span>
+                <span style={{ fontSize: "20px", color: "#38bdf8" }}>XLM</span>
               </h1>
 
               <div
